@@ -7,6 +7,9 @@ else if(g == "2"){
 }else if(g == "3"){
     console.log("chereshapti")
 }
+else if(g == "4"){
+    console.log("hingspati")
+}
 else if(g == "5"){
     console.log("urpat")
 }
